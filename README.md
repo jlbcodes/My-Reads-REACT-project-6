@@ -1,7 +1,7 @@
 # FEND Nanodegree Program
 ## My Reads React Project
 
-This application was created with ReactJS. It is a book reading tracker application that allows you to search for books and track whether or not you've read them, would like to read them, or are currently reading them, by placing the books on a respective shelf. You can move the books between the different shelves or select "none" to remove them from any shelf. 
+This application was created with ReactJS. It is a book reading tracker application that allows you to search for books and track whether or not you've read them, would like to read them, or are currently reading them, by placing the books on a respective shelf. You can move the books between the different shelves or select "none" to remove them from any shelf.
 
 How to start the application:
 
@@ -13,4 +13,4 @@ Make sure that you install node with the PATH variable so you can run node anywh
 * To start the react app, run: npm start
 * This will start the app in your default browser at: localhost:3000
 
-# Jenna Brandon
+### Jenna Brandon
